@@ -78,14 +78,4 @@ veya IDE üzerinden DiyabetTakipApp sınıfı çalıştırılabilir.
 Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 
 
----
 
-# 🔥 Bu README Ne Sağlıyor?
-
-✔ Profesyonel görünüm  
-✔ Güvenlik bilinci gösteriyor  
-✔ Email ve DB kısmını açıklıyor  
-✔ Portföy için ideal  
-✔ Akademik proje formatına uygun  
-
----
